@@ -1,3 +1,8 @@
+<h1 align=center>
+ <img align=center width="40%" src="https://account.codingblocks.com/img/account-logo.png" />
+</h1>
+
+
 # oneauth
 [![Build Status](https://travis-ci.org/coding-blocks/oneauth.svg)](https://travis-ci.org/coding-blocks/oneauth)
 [![CircleCI](https://circleci.com/gh/coding-blocks/oneauth.svg?style=svg)](https://circleci.com/gh/coding-blocks/oneauth)
